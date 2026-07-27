@@ -1,2 +1,2 @@
 # thebutton
-This is code about a widget button.
+This is code about a Fidget button.
